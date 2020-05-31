@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://kaan:kaan123@typecripttest-sk1y0.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"sl_myJwtSecret"
+}
